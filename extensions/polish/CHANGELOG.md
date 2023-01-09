@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-polish-v2.0.1...code-spell-checker-polish@3.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update the Polish Dictionary to v2 ([#371](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/371))
+
+### Features
+
+* Update the Polish Dictionary to v2 ([#371](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/371)) ([16ebb57](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/16ebb575d9b1fbce1ed69fde0f9f139e34d16c0d))
+
+
+### Build System
+
+* **deps:** bump @cspell/dict-pl_pl from 2.0.0 to 2.0.1 ([#416](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/416)) ([dc10a9c](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/dc10a9ce73cd0bdd192a76546408dff94d2ddb99))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#407](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/407)) ([990e98c](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/990e98c5befbe28655f896ae9618d32626d684f5))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+* release main ([#394](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/394)) ([85d502f](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85d502fa2170a7a65d3bd69bfc47dcda99c1ac05))
+
 ## [2.0.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-polish@2.0.0...code-spell-checker-polish@2.0.1) (2022-10-04)
 
 

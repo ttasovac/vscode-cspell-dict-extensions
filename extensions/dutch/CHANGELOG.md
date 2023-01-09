@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.7](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-dutch-v0.3.6...code-spell-checker-dutch@0.3.7) (2023-01-09)
+
+
+### Build System
+
+* **deps:** bump @cspell/dict-nl-nl from 2.2.6 to 2.2.7 ([#412](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/412)) ([2283c8e](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/2283c8e66552a2c260730d33a03d546a1a92cdba))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#385](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/385)) ([c2907e7](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c2907e7af39c1b7f42549cfb5f555dce6f62fb4a))
+* Workflow Bot -- Update ALL Dependencies ([#407](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/407)) ([990e98c](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/990e98c5befbe28655f896ae9618d32626d684f5))
+* Workflow Bot -- Update ALL Dependencies ([#463](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/463)) ([85166ed](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85166ed01b3b324b9bfc737443a76318aa1cdda7))
+
+
+### Miscellaneous
+
+* release main ([#382](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/382)) ([113fa38](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/113fa3876184c1eed81e15dbe17810ce3599c25f))
+* release main ([#394](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/394)) ([85d502f](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85d502fa2170a7a65d3bd69bfc47dcda99c1ac05))
+* release main ([#422](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/422)) ([5af9f17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5af9f171200ea4ed7dbac5f40aca703e1581ba21))
+
 ## [0.3.6](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-dutch@0.3.5...code-spell-checker-dutch@0.3.6) (2023-01-06)
 
 

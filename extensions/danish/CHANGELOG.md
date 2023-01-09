@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-danish-v1.0.1...code-spell-checker-danish@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Danish dictionary to v2 ([#350](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/350))
+
+### Features
+
+* Update Danish dictionary to v2 ([#350](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/350)) ([ce1a54b](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/ce1a54b92f9fe4030bae7e3036baf43c2a8ca6e2))
+
+
+### Updates and Bug Fixes
+
+* Update sample ([67b2d17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67b2d179d56a2ad719a4f69fedd24e55216d3385))
+
+
+### Miscellaneous
+
+* release main ([#349](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/349)) ([cd0e84f](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/cd0e84fb6816ab9ed901fd75894fc3b49f68b68b))
+* release main ([#358](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/358)) ([84d6540](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/84d6540859d67d4de21ce14d397bac0311844350))
+
 ## [1.0.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-danish@1.0.0...code-spell-checker-danish@1.0.1) (2022-08-12)
 
 
