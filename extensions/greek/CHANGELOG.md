@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-greek-v1.0.1...code-spell-checker-greek@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Greek Dictionary to V2 ([#368](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/368))
+
+### Features
+
+* Upgrade Greek Dictionary to V2 ([#368](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/368)) ([27b2a64](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/27b2a641f3733e58aa832d2908aa034a073c92a7))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#463](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/463)) ([85166ed](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85166ed01b3b324b9bfc737443a76318aa1cdda7))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+* release main ([#422](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/422)) ([5af9f17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5af9f171200ea4ed7dbac5f40aca703e1581ba21))
+
 ## [1.0.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-greek@1.0.0...code-spell-checker-greek@1.0.1) (2023-01-06)
 
 

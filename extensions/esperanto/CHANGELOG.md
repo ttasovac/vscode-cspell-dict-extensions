@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-esperanto-v1.0.0...code-spell-checker-esperanto@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Esperanto Dictionary to v2 ([#367](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/367))
+
+### Features
+
+* Upgrade Esperanto Dictionary to v2 ([#367](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/367)) ([317aa6d](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/317aa6de2880710043bc8e42350fa2b7da3d8dd8))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+
 ## [1.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-esperanto@0.1.11...code-spell-checker-esperanto@1.0.0) (2022-08-13)
 
 

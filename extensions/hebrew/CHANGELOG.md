@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-hebrew-v1.0.0...code-spell-checker-hebrew@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Hebrew Dictionary to V2 ([#377](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/377))
+
+### Features
+
+* Update Hebrew Dictionary to V2 ([#377](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/377)) ([022c56a](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/022c56a3f82c01a029423c281e42a9e4bbcf5ccf))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+
 ## [1.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-hebrew@0.1.12...code-spell-checker-hebrew@1.0.0) (2022-08-13)
 
 

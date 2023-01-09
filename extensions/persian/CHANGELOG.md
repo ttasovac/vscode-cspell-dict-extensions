@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-persian-v1.0.0...code-spell-checker-persian@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Persian Dictionary to V2 ([#376](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/376))
+
+### Features
+
+* Update Persian Dictionary to V2 ([#376](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/376)) ([543a90d](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/543a90dc7af789e1b62972e49b0590a1bd573d87))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+
 ## [1.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-persian@0.1.13...code-spell-checker-persian@1.0.0) (2022-08-13)
 
 

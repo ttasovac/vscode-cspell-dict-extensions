@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-portuguese-v1.0.3...code-spell-checker-portuguese@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Portuguese Dictionary to v2.0 ([#353](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/353))
+
+### Features
+
+* Upgrade Portuguese Dictionary to v2.0 ([#353](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/353)) ([7443cb6](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/7443cb6c282a286b9e48d62b8b76f2074162eb64))
+
+
+### Updates and Bug Fixes
+
+* Update README ([f97c5c9](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/f97c5c9fc6cd3b801f13c7e97abcb6b48c881cd8))
+* Update sample ([8d2132a](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/8d2132ac0e337bc2d043fdcdd2cc6a4eaee78fac))
+* Update sample ([6224cbb](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/6224cbb8e44345375810c34603db7d856bd01ad6))
+
+
+### Miscellaneous
+
+* release main ([#354](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/354)) ([2e05243](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/2e05243e52836346f4008c3fcbf352d17f36e2e2))
+* release main ([#356](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/356)) ([c835e12](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c835e12918a146ca4684368c9f3252639227f31e))
+* release main ([#360](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/360)) ([5471fdc](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5471fdc784e0da50046a0324cbd65559ed07bcaf))
+* release main ([#363](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/363)) ([b895f1e](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/b895f1e18a555425a0cc1582b97dd76b5f539ac7))
+
 ## [1.0.3](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-portuguese@1.0.2...code-spell-checker-portuguese@1.0.3) (2022-08-12)
 
 

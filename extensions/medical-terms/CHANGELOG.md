@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-medical-terms-v2.0.1...code-spell-checker-medical-terms@3.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Medical Terms Dictionary to v2 ([#378](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/378))
+
+### Features
+
+* Update Medical Terms Dictionary to v2 ([#378](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/378)) ([93fcd66](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/93fcd66ae8ada88e8ac894a6845c9db15e455f34))
+
+
+### Build System
+
+* **deps:** bump @cspell/dict-medicalterms from 2.0.0 to 3.0.0 ([#425](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/425)) ([c8c6bd0](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c8c6bd09d3613bc31b7d89947c3c2a7cf63216ef))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+* release main ([#422](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/422)) ([5af9f17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5af9f171200ea4ed7dbac5f40aca703e1581ba21))
+
 ## [2.0.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-medical-terms@2.0.0...code-spell-checker-medical-terms@2.0.1) (2023-01-06)
 
 

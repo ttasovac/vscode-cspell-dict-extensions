@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.6](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-slovenian-v0.1.5...code-spell-checker-slovenian@0.1.6) (2023-01-09)
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#385](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/385)) ([c2907e7](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c2907e7af39c1b7f42549cfb5f555dce6f62fb4a))
+* Workflow Bot -- Update ALL Dependencies ([#463](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/463)) ([85166ed](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85166ed01b3b324b9bfc737443a76318aa1cdda7))
+
+
+### Miscellaneous
+
+* release main ([#382](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/382)) ([113fa38](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/113fa3876184c1eed81e15dbe17810ce3599c25f))
+* release main ([#422](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/422)) ([5af9f17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5af9f171200ea4ed7dbac5f40aca703e1581ba21))
+
 ## [0.1.5](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-slovenian@0.1.4...code-spell-checker-slovenian@0.1.5) (2023-01-06)
 
 

@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-german-v2.1.1...code-spell-checker-german@2.2.0) (2023-01-09)
+
+
+### Features
+
+* Support alternate German spelling of Umlauts. ([c56a0a9](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c56a0a901361d797573f9ef3e2d68a7eeadc265a)), closes [#408](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/408)
+
+
+### Updates and Bug Fixes
+
+* [#408](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/408) ([c56a0a9](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c56a0a901361d797573f9ef3e2d68a7eeadc265a))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#385](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/385)) ([c2907e7](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/c2907e7af39c1b7f42549cfb5f555dce6f62fb4a))
+* Workflow Bot -- Update ALL Dependencies ([#444](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/444)) ([200a237](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/200a2370a9ec68b82e72f518712b175fa99bcbf9))
+* Workflow Bot -- Update ALL Dependencies ([#463](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/463)) ([85166ed](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85166ed01b3b324b9bfc737443a76318aa1cdda7))
+
+
+### Miscellaneous
+
+* release main ([#382](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/382)) ([113fa38](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/113fa3876184c1eed81e15dbe17810ce3599c25f))
+* release main ([#394](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/394)) ([85d502f](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/85d502fa2170a7a65d3bd69bfc47dcda99c1ac05))
+* release main ([#422](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/422)) ([5af9f17](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/5af9f171200ea4ed7dbac5f40aca703e1581ba21))
+
 ## [2.1.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-german@2.1.0...code-spell-checker-german@2.1.1) (2023-01-06)
 
 

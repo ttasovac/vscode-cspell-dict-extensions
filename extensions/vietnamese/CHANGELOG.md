@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/ttasovac/vscode-cspell-dict-extensions/compare/code-spell-checker-vietnamese-v1.0.0...code-spell-checker-vietnamese@2.0.0) (2023-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Vietnamese Dictionary to v2 ([#374](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/374))
+
+### Features
+
+* Update Vietnamese Dictionary to v2 ([#374](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/374)) ([6c09bcf](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/6c09bcf9f1e68b203c8cb40d3c45c7218d55a328))
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies ([#375](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/375)) ([ec697da](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/ec697da0aa4d1af7d1fc3a6831ae99d312ef449e))
+
+
+### Miscellaneous
+
+* release main ([#366](https://github.com/ttasovac/vscode-cspell-dict-extensions/issues/366)) ([67cfa99](https://github.com/ttasovac/vscode-cspell-dict-extensions/commit/67cfa9935929daa4eca2043de37bc76631fc4ec3))
+
 ## [1.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-vietnamese@0.1.10...code-spell-checker-vietnamese@1.0.0) (2022-08-13)
 
 
